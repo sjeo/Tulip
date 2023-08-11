@@ -1,7 +1,7 @@
 from PyQt5 import QtCore
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QCursor
-from PyQt5.QtWidgets import QWidget, QApplication, QMainWindow
+from PyQt5.QtWidgets import QWidget
 from Widget.ui2.untitled import Ui_socket
 from Widget.ui2.unititled_functions import SOCKETFUNCTIONS
 

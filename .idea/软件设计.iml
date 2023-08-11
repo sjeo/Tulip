@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/软件设计" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (venv) (10)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -10,8 +11,8 @@
   <component name="PyNamespacePackagesService">
     <option name="namespacePackageFolders">
       <list>
-        <option value="$MODULE_DIR$/ui" />
-        <option value="$MODULE_DIR$/Widget" />
+        <option value="$MODULE_DIR$/Tulip Module/ui" />
+        <option value="$MODULE_DIR$/Tulip Module/Widget" />
       </list>
     </option>
   </component>

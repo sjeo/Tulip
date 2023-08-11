@@ -1,7 +1,4 @@
-from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QIcon, QFontDatabase, QFont
-from PyQt5.QtWidgets import QMenu, QAction
-from Widget.Widget import Widget
 
 GLOBAL_if_max = False
 
